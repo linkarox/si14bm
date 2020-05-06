@@ -1,0 +1,40 @@
+body
+{
+	margin		: 0px;
+	padding		: auto;
+
+	margin-left	: 10%;
+	margin-right	: auto;
+
+	display		: flex;
+	justify-content	: center;
+	flex-direction	: column;
+	text-align	: left;
+
+	font-family	: "Times New Roman", Times, serif;
+	color		: rgba(255,255,255,1);
+}
+
+h1
+{
+	text-align	: center;
+}
+
+h2
+{
+	text-transform	: uppercase;
+	font-size	: 12px;
+}
+
+div
+{
+	color		: rgba(0,0,0,1);
+}
+
+.center
+{
+	display		: block;
+	margin-left	: auto;
+	margin-right	: auto;
+	height		: 80%;
+}
